@@ -1,0 +1,4 @@
+# puzzleum
+Puzzleum jest edukacyjną adaptacją gry 15 Slides, wykorzystującą zdigitalizowane archiwum dzieł sztuki jednej lub wielu instytucji kultury. Obrazy, fotografie lub innego rodzaju grafiki stają się układanką, którą gracz ma za zadanie rozwiązać. Uporządkowanie dzieł w poziomy powiązane tematycznie lub lokalizacyjnie pozwala na poznawanie przez uczestnika gry grup dzieł jako spójnej całości. Tym sposobem użytkownik składa i zbiera całe kolekcje dzieł sztuki, wypełniając swoje własne, wirtualne Puzzleum.
+
+Aplikacja, oprócz celów rozrywkowych i poznawczych, może spełniać również rolę promocyjną. Z jednej strony umożliwia instytucjom kultury nagradzanie graczy za udane ułożenie części ich zbiorów np. za pomocą darmowej wejściówki, z drugiej - odwiedzenie takiej instytucji może odblokować kolejne poziomy gry. Dodatkowy efekt motywacyjny można uzyskać także poprzez rozbudowanie społecznościowego aspektu aplikacji.
