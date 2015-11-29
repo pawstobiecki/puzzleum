@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:animateLayoutChanges="true"
+    android:background="@color/background"
+    android:padding="5dp">
+
+    <pl.och.green.puzzleum.ui.GameBoardView
+        android:id="@+id/gameboard"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="invisible"
+        android:background="@color/background"/>
+
+    <ImageView
+        android:id="@+id/complete_image"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        />
+
+    <ImageView
+        android:id="@+id/info_icon"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_toLeftOf="@id/complete_image"
+        android:layout_toStartOf="@id/complete_image"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:visibility="invisible"
+        android:src="@drawable/info_icon" />
+</RelativeLayout>

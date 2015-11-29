@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content"
+    android:background="@drawable/museum_map">
+    <ImageView
+        android:id="@+id/room_entry"
+        android:layout_x="258px"
+        android:layout_y="408px"
+        android:layout_width="167px"
+        android:layout_height="136px"
+        android:src="@drawable/yellow_room"/>
+</AbsoluteLayout>
+
